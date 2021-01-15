@@ -13,6 +13,7 @@ If you want to contact me, please leave me a message.
 - Problem Solving (PS) 😵
 - Trading program with Python 💰
 - Java with Spring 🌱
+- LOL 🎮
 
 
 <!--
