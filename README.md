@@ -1,4 +1,6 @@
 ### Hi there 👋
+Good Day! I'm JinYoung who is interested in PS and Java Spring.
+If you want to contact me, please leave me a message.
 
 <!--
 **pjy1368/pjy1368** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
