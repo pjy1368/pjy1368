@@ -6,7 +6,7 @@ If you want to contact me, please leave me a message.
 
 🏫 Education
 - Konkuk Unversity, Department of Software  ``2019-03~``
-- 우아한테크코스  ``2020-02~``
+- 우아한테크코스 (woowacourse)   ``2020-02~``
 
 
 ⚡ Interest
