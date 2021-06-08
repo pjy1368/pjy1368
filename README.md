@@ -11,7 +11,7 @@ If you want to contact me, please leave me a message.
 
 ⚡ Interest
 - Problem Solving (PS) 😵
-- Trading program with Python 💰
+- Trading program 💰
 - Java with Spring 🌱
 - LOL 🎮
 
