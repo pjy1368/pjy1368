@@ -3,18 +3,15 @@ Good Day! I'm JinYoung.
 
 If you want to contact me, please leave me a message.
 
+🧳 Career
+- Channel Coperation ``2023-07 ~``
+- Chai Coperation ``2022-05 ~ 2023-06``
 
 🏫 Education
-- Konkuk Unversity, Department of Software  ``2019-03~``
+- Konkuk Unversity, Department of Software  ``2019-03 ~``
 - 우아한테크코스 (woowacourse)   ``2021-02 ~ 2021-08``
 
-
-⚡ Interest
-- Problem Solving (PS) 😵
-- Trading program 💰
-- Java with Spring 🌱
-- LOL 🎮
-
+[Resume](https://sequoia-woolen-f12.notion.site/Resume-392d39679c1741b8862e9dc1d1d77e93?pvs=4)
 
 <!--
 **pjy1368/pjy1368** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
