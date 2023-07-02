@@ -11,7 +11,7 @@ If you want to contact me, please leave me a message.
 - Konkuk Unversity, Department of Software  ``2019-03 ~``
 - 우아한테크코스 (woowacourse)   ``2021-02 ~ 2021-08``
 
-[Resume](https://sequoia-woolen-f12.notion.site/Resume-392d39679c1741b8862e9dc1d1d77e93?pvs=4)
+[Resume](https://sequoia-woolen-f12.notion.site/Resume-392d39679c1741b8862e9dc1d1d77e93?pvs=4) <br />
 [LinkedIn](www.linkedin.com/in/진영-박-2b48b6215)
 
 <!--
